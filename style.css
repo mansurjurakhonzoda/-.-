@@ -195,3 +195,33 @@ textarea {
   top: 350px;
   left: -50px;
 }
+main section:nth-child(2) {
+  width: 88%;
+  height: 140px;
+  border-radius: 10px;
+  background-color: #e8f2fc;
+  margin: auto;
+  margin-bottom: 100px;
+  padding: 60px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.number {
+  width: 307px;
+  height: 140px;
+}
+.number h2 {
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 125%;
+  letter-spacing: 2%;
+  color: #2a84ee;
+}
+.number p {
+  font-size: 400;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 2%;
+  color: #6c778e;
+}
